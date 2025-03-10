@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeonmaryam
+- 👋 Hi, I’m @mariyamshafiq
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning C language, I'm a student in Virtaual University of Pakistan and also taking edx course to inhace my knowledge about this field.
 - 💞️ I’m freshner now, need a senior for guidance.
